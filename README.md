@@ -1,5 +1,5 @@
 # Tugas-Individu
-tugas yang saya kumpulkan di repository ini ada 4 :
+tugas yang saya kumpulkan di repository ini ada 5 :
  1. tugas Pemrogaman visual yaitu project Kalkulator
  2. tugas Pemrogaman visual yaitu project Form Filling
  3. tugas Pemrogaman web yaitu project web Portofolio
